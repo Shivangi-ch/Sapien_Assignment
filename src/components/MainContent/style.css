@@ -1,0 +1,8 @@
+.sidebar {
+  margin-left: -12px;
+  background-color: rgba(34, 34, 34, 0.952);
+  padding-top: 20px;
+  padding-bottom: 20px;
+ 
+  width: 150px;
+}
